@@ -31,6 +31,15 @@ Douyin, Xiaohongshu (Rednote), Kuaishou, Bilibili, WeChat Channels, WeChat Offic
       For business inquiries, please add WeChat: metasota12
     </td>
   </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://go.apimart.ai/gh-aitoearn"><img src="docs/sponsors/apimart-logo.png" alt="APIMart" width="100"></a><br>
+      <a href="https://go.apimart.ai/gh-aitoearn"><strong>APIMart</strong></a>
+    </td>
+    <td align="left">
+      Thanks to APIMart for sponsoring this project! APIMart is a low-cost API platform for AI image &amp; video generation — GPT-Image-2 from <strong>$0.006/image</strong>, <strong>160+ images per dollar</strong>. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee — <a href="https://go.apimart.ai/gh-aitoearn">sign up here</a> to get started.
+    </td>
+  </tr>
 </table>
 
 ## 🚀 Quick Start with AiToEarn (5 Ways)
@@ -47,7 +56,7 @@ Douyin, Xiaohongshu (Rednote), Kuaishou, Bilibili, WeChat Channels, WeChat Offic
 
 ## What's New
 
-- **2026-06-23**: [2.5 version](https://github.com/yikart/AiToEarn/releases/tag/v2.5.0) — Relay configuration now happens in the Configuration UI and is split into Server Relay and AI Relay: Server Relay handles publishing platform authorization, while AI Relay lets users use AI models provided by the platform.
+- **2026-06-23**: [2.5 version](https://github.com/yikart/AiToEarn/releases/tag/v2.5.0) — Relay configuration now happens in the Configuration UI and is split into Server Relay and AI Relay: Server Relay handles publishing platform authorization, while AI Relay lets users use AI models provided by the platform; also introduced the [Open Platform](https://docs.aitoearn.cn/).
 - **2026-05-21**: [2.4 version](https://github.com/yikart/AiToEarn/releases/tag/v2.4.0) — Draft generation now supports HappyHorse 1.0 and Seedance 2.0, with improved batch video/image-text draft generation, multi-model selection, reference images/videos, target-platform limits, and caption prompts; refreshed interface style and enhanced Twitter/X exploration and engagement.
 - **2026-04-20**: OpenClaw now supports AiToEarn earning workflows, so you can receive and execute monetization tasks directly inside OpenClaw.
 - **2026-03-26**: [2.1 version](https://www.aitoearn.ai/) — Content marketplace launched; added OpenClaw support for using AiToEarn directly within OpenClaw; added MCP protocol support for using AiToEarn in Claude, Cursor, and any MCP-compatible Agent or LLM.
